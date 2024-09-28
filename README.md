@@ -7,7 +7,7 @@ PassMark (<https://cpubenchmark.net/cpu_list.php>) parser
 1. Clone this project repository:
 
   ```bash
-  git clone <https://github.com/x3r0s/passmark-scraper.git>
+  [git clone <https://github.com/x3r0s/passmark-scraper.git>](https://github.com/x3r0s/PassMark-Scraper.git)
   ```
 
 2. Navigate to the project folder:
