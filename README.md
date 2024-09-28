@@ -13,7 +13,7 @@ PassMark (<https://cpubenchmark.net/cpu_list.php>) parser
 2. Navigate to the project folder:
 
   ```bash
-  cd passmark-scraper
+  cd cd PassMark-Scraper
   ```
 
 3. Install the required packages:
